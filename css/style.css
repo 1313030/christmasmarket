@@ -167,9 +167,9 @@ p{
 /* ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
 .bottonContent{
    margin: 3rem 0;
-    gap: 3rem;
     text-align: center;
 }
+
 .bottonContent ul {
     display: flex;
     justify-content: center;
@@ -185,9 +185,7 @@ p{
 .higeContain{
     margin-top: 5rem;
 }
-.wave{
-  margin: 0 auto;
-}
+
 
 .wave img{
     position: absolute;
@@ -496,9 +494,7 @@ h1{
     gap: 1rem;
 }
 
-.infoContent:nth-child(3){
-    margin: 1rem 1rem;
-}
+
 .infoContent img{
     width: 180px; 
     aspect-ratio: 1 / 1;
@@ -545,10 +541,9 @@ h1{
 
 .snowSec{
     background-image: url(../images/アセット\ 2-8.png);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    height: 200vh;
-  padding: 28rem 0;
+  padding: 26rem 0 0 0;
   position: relative;
 }
 
@@ -557,12 +552,12 @@ h1{
 }
 
 .second{
-    margin: -36rem 0;
+    margin: -1rem 0;
 }
 
 /* :::::::::::::::::::::::::::::::::sec03::::::::::::::::::::::::::::::::::::::::::::::: */
 .sec03{
-   margin-top: 55rem;
+   margin-top: 5rem;
    text-align: center;
 }
 
