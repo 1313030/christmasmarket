@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 
-@media (width <= 500px) {
+@media (max-width:500px) {
     .bottonContent ul{
         gap: 1rem;
         margin: 1rem 1rem;
@@ -16,7 +16,7 @@
     .about p {
         font-size: 0.8rem;
     }.wave img{
-        top: 14%;
+        top: 17%;
         left: 7%;
         width: 90%;
     }
